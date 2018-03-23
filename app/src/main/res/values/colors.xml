@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43576f</color>
+    <color name="colorPrimaryDark">#186085</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="disableBtn">#BF360C</color>
+    <color name="enableBtn">#FF5722</color>
+    <color name="popText">#FFFFFF</color>
+    <color name="popBg">#3F51B5</color>
+</resources>

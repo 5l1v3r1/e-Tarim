@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">E-Tarım</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="Name">İsim</string>
+    <string name="Surname">Soyisim</string>
+    <string name="Statu">Statü</string>
+    <string name="Username">Kullanıcı Adı</string>
+    <string name="Password">Şifre</string>
+
+
+    <string name="dateAM">
+        2017-05-14 20:00 - 2017-05-15 18:00 Sıcaklık sensörü için 20 dakka da
+            bir veriler gösterilmektedir.
+    </string>
+
+    <string name="datePM">
+        2017-05-14 18.00 - 2017-05-15 08:00 Sıcaklık sensörü için 20 dakka da
+            bir veriler gösterilmektedir.
+    </string>
+
+    <string name="getSensorDailyValues">
+        {
+          \"Daily_values\": {
+
+            \"number\": 21,
+
+            \"Am_group\": [
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-05T22:38:04\"
+              },
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-06T05:38:04\"
+              },
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-06T05:39:04\"
+              },
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-06T05:40:04\"
+              }
+            ],
+            \"Pm_group\": [
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-06T06:38:04\"
+              },
+              {
+                \"Value\": 20,
+                \"Value_date\": \"2017-05-06T07:38:04\"
+              }
+            ]
+          }
+        }
+    </string>
+
+
+
+</resources>

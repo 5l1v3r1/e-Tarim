@@ -1,0 +1,31 @@
+{
+  "User_fields": [
+    {
+      "Area_name": "saha1",
+      "Field": [
+        {
+          "Field_id": 1,
+          "Field_name": "tarla1"
+        },
+        {
+          "Field_id": 2,
+          "Field_name": "tarla2"
+        }
+      ]
+    },
+    {
+      "Area_name": "saha2",
+      "Field": [
+        {
+          "Field_id": 3,
+          "Field_name": "tarla 3"
+        },
+        {
+          "Field_id": 4,
+          "Field_name": "tarla 4"
+        }
+      ]
+    }
+  ]
+}
+

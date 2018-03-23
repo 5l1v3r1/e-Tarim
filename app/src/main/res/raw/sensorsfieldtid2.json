@@ -1,0 +1,16 @@
+{
+  "Field_sensors": [
+    {
+      "SensorId1": 1,
+      "SensorName1": "toprak",
+      "SensorLastValue1": 55,
+      "Value_date": "2017-04-24T06:38:04"
+    },
+    {
+      "SensorId1": 2,
+      "SensorName1": "hava",
+      "SensorLastValue1": 30,
+      "Value_date": "2017-05-05T08:39:04"
+    }
+  ]
+}

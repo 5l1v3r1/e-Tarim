@@ -1,0 +1,22 @@
+{
+  "Field_sensors": [
+    {
+      "SensorId1": 1,
+      "SensorName1": "nem",
+      "SensorLastValue1": 45,
+      "Value_date": "2017-04-24T06:38:04"
+    },
+    {
+      "SensorId1": 2,
+      "SensorName1": "su",
+      "SensorLastValue1": 20,
+      "Value_date": "2017-05-05T08:39:04"
+    },
+    {
+      "SensorId1": 3,
+      "SensorName1": "co2",
+      "SensorLastValue1": 50,
+      "Value_date": "2017-04-24T06:38:04"
+    }
+  ]
+}

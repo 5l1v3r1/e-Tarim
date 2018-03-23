@@ -1,0 +1,250 @@
+{
+  "query": {
+    "count": 44,
+    "created": "2017-05-05T19:51:48Z",
+    "lang": "tr-TR",
+    "results": {
+      "a": [
+        {
+          "class": "image",
+          "href": "/wiki/File:Yahoo!_logo.svg",
+          "img": {
+            "alt": "Yahoo! logo.svg",
+            "data-file-height": "233",
+            "data-file-width": "1000",
+            "height": "58",
+            "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/250px-Yahoo%21_logo.svg.png",
+            "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/375px-Yahoo%21_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/500px-Yahoo%21_logo.svg.png 2x",
+            "width": "250"
+          }
+        },
+        {
+          "class": "image",
+          "href": "/wiki/File:Yahoo_Headquarters.jpg",
+          "img": {
+            "alt": "Yahoo Headquarters.jpg",
+            "data-file-height": "444",
+            "data-file-width": "700",
+            "height": "159",
+            "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Yahoo_Headquarters.jpg/250px-Yahoo_Headquarters.jpg",
+            "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Yahoo_Headquarters.jpg/375px-Yahoo_Headquarters.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Yahoo_Headquarters.jpg/500px-Yahoo_Headquarters.jpg 2x",
+            "width": "250"
+          }
+        },
+        {
+          "href": "/wiki/Public_company",
+          "title": "Public company",
+          "content": "Public"
+        },
+        {
+          "href": "/wiki/Ticker_symbol",
+          "title": "Ticker symbol",
+          "content": "Traded as"
+        },
+        {
+          "href": "/wiki/NASDAQ",
+          "title": "NASDAQ",
+          "content": "NASDAQ"
+        },
+        {
+          "class": "external text",
+          "href": "http://www.nasdaq.com/symbol/yhoo",
+          "rel": "nofollow",
+          "content": "YHOO"
+        },
+        {
+          "href": "/wiki/NASDAQ-100",
+          "title": "NASDAQ-100",
+          "content": "NASDAQ-100 Component"
+        },
+        {
+          "class": "mw-redirect",
+          "href": "/wiki/S%26P_500",
+          "title": "S&P 500",
+          "content": "S&P 500 Component"
+        },
+        {
+          "href": "/wiki/Entrepreneurship",
+          "title": "Entrepreneurship",
+          "content": "Founder(s)"
+        },
+        {
+          "href": "/wiki/Jerry_Yang",
+          "title": "Jerry Yang",
+          "content": "Jerry Yang"
+        },
+        {
+          "href": "/wiki/David_Filo",
+          "title": "David Filo",
+          "content": "David Filo"
+        },
+        {
+          "href": "/wiki/David_Filo",
+          "title": "David Filo",
+          "content": "David Filo"
+        },
+        {
+          "href": "#cite_note-1",
+          "content": "[1]"
+        },
+        {
+          "class": "mw-redirect mw-disambig",
+          "href": "/wiki/Eric_Brandt",
+          "title": "Eric Brandt",
+          "content": "Eric Brandt"
+        },
+        {
+          "class": "external text",
+          "href": "http://dispenser.homenet.org/~dispenser/cgi-bin/dab_solver.py?page=Yahoo!&editintro=Template:Disambiguation_needed/editintro&client=Template:Dn",
+          "rel": "nofollow",
+          "span": {
+            "title": "Link needs disambiguation. (April 2017)",
+            "content": "disambiguation needed"
+          }
+        },
+        {
+          "href": "/wiki/Marissa_Mayer",
+          "title": "Marissa Mayer",
+          "content": "Marissa Mayer"
+        },
+        {
+          "href": "/wiki/Product_(business)",
+          "title": "Product (business)",
+          "content": "Products"
+        },
+        {
+          "href": "/wiki/Yahoo!_News",
+          "title": "Yahoo! News",
+          "content": "Yahoo! News"
+        },
+        {
+          "href": "/wiki/Yahoo!_Mail",
+          "title": "Yahoo! Mail",
+          "content": "Yahoo! Mail"
+        },
+        {
+          "href": "/wiki/Yahoo!_Finance",
+          "title": "Yahoo! Finance",
+          "content": "Yahoo! Finance"
+        },
+        {
+          "href": "/wiki/Yahoo!_Sports",
+          "title": "Yahoo! Sports",
+          "content": "Yahoo! Sports"
+        },
+        {
+          "href": "/wiki/Yahoo!_Search",
+          "title": "Yahoo! Search",
+          "content": "Yahoo! Search"
+        },
+        {
+          "href": "/wiki/Yahoo!_Messenger",
+          "title": "Yahoo! Messenger",
+          "content": "Yahoo! Messenger"
+        },
+        {
+          "href": "/wiki/Yahoo!_Answers",
+          "title": "Yahoo! Answers",
+          "content": "Yahoo! Answers"
+        },
+        {
+          "href": "/wiki/Tumblr",
+          "title": "Tumblr",
+          "content": "Tumblr"
+        },
+        {
+          "href": "/wiki/Flickr",
+          "title": "Flickr",
+          "content": "Flickr"
+        },
+        {
+          "href": "/wiki/List_of_Yahoo!-owned_sites_and_services",
+          "title": "List of Yahoo!-owned sites and services",
+          "content": "See Yahoo products"
+        },
+        {
+          "href": "/wiki/Revenue",
+          "title": "Revenue",
+          "content": "Revenue"
+        },
+        {
+          "href": "#cite_note-Yahoo_Finance-2",
+          "content": "[2]"
+        },
+        {
+          "href": "/wiki/Earnings_before_interest_and_taxes",
+          "title": "Earnings before interest and taxes",
+          "content": "Operating income"
+        },
+        {
+          "href": "#cite_note-Yahoo_Finance-2",
+          "content": "[2]"
+        },
+        {
+          "href": "/wiki/Net_income",
+          "title": "Net income",
+          "content": "Net income"
+        },
+        {
+          "href": "#cite_note-Yahoo_Finance-2",
+          "content": "[2]"
+        },
+        {
+          "href": "/wiki/Asset",
+          "title": "Asset",
+          "content": "Total assets"
+        },
+        {
+          "href": "#cite_note-Yahoo_Finance-2",
+          "content": "[2]"
+        },
+        {
+          "href": "/wiki/Equity_(finance)",
+          "title": "Equity (finance)",
+          "content": "Total equity"
+        },
+        {
+          "href": "#cite_note-Yahoo_Finance-2",
+          "content": "[2]"
+        },
+        {
+          "href": "#cite_note-3",
+          "content": "[3]"
+        },
+        {
+          "class": "mw-redirect",
+          "href": "/wiki/List_of_acquisitions_by_Yahoo!",
+          "title": "List of acquisitions by Yahoo!",
+          "content": "Yahoo subsidiaries"
+        },
+        {
+          "class": "external text",
+          "href": "http://yahoo.com",
+          "rel": "nofollow",
+          "wbr": null,
+          "content": "yahoo.com"
+        },
+        {
+          "href": "/wiki/Alexa_Internet",
+          "title": "Alexa Internet",
+          "content": "Alexa"
+        },
+        {
+          "class": "external text",
+          "href": "http://www.alexa.com/siteinfo/yahoo.com",
+          "rel": "nofollow",
+          "content": "6"
+        },
+        {
+          "class": "external text",
+          "href": "//en.wikipedia.org/w/index.php?title=Yahoo!&action=edit",
+          "content": "[update]"
+        },
+        {
+          "href": "#cite_note-alexaranking-4",
+          "content": "[4]"
+        }
+      ]
+    }
+  }
+}

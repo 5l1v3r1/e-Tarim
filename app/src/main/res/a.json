@@ -1,0 +1,32 @@
+{
+  "Daily_values": {
+    "Am_group": [
+      {
+        "Value": 20,
+        "Value_date": "2017-05-05T22:38:04"
+      },
+      {
+        "Value": 20,
+        "Value_date": "2017-05-06T05:38:04"
+      },
+      {
+        "Value": 20,
+        "Value_date": "2017-05-06T05:39:04"
+      },
+      {
+        "Value": 20,
+        "Value_date": "2017-05-06T05:40:04"
+      }
+    ],
+    "Pm_group": [
+      {
+        "Value": 20,
+        "Value_date": "2017-05-06T06:38:04"
+      },
+      {
+        "Value": 20,
+        "Value_date": "2017-05-06T07:38:04"
+      }
+    ]
+  }
+}

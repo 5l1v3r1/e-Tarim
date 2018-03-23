@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/cartsLayout"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sabahTv"
+            android:padding="5dp"
+            android:gravity="center"
+            android:text="@string/dateAM"/>
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/sabahChart"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_weight="1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:id="@+id/aksamTv"
+            android:gravity="center"
+            android:text="@string/datePM"/>
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/aksamChart"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/geriDon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="0dp"
+        android:text="Geri dön"
+        android:gravity="center"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
+
+</LinearLayout>

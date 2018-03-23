@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/aselsanTv"
+        android:padding="5dp"
+        android:onClick="linkClick"
+        android:clickable="true"
+        android:textColor="#304FFE"
+        android:text="Aselsan verileri görmek için tıklayınız."
+        android:layout_gravity="center" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tarbilTv"
+        android:padding="5dp"
+        android:onClick="linkClick"
+        android:clickable="true"
+        android:textColor="#304FFE"
+        android:text="Tarbil verileri görmek için tıklayınız."
+        android:layout_gravity="center" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5">
+        <com.github.mikephil.charting.charts.PieChart
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/pieChart"
+            />
+
+    </RelativeLayout>
+    <ListView
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@android:id/list"
+        android:layout_height="0dp"
+        android:layout_weight="0.5" />
+</LinearLayout>
